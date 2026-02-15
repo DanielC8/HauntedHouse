@@ -1,4 +1,4 @@
-# Haunted House
+# [Haunted House](https://danielc87.itch.io/haunted-house)
 
 A narrative-driven horror game built in Unity. The player explores a haunted house environment, progressing through dialogue while the environment reacts around them — furniture bounces off walls, lights flicker, a ghost bobs up and down, and a grave rocks back and forth. The final dialogue triggers a jumpscare. Built during CMU's NHSGA in the summer of 2025.
 
